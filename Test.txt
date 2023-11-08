@@ -1,3 +1,1 @@
-Das ist eine Zeile
-Das ist eine neue Zeile
-Das ist eine Text. $$
+Das ist die einzige Zeile
